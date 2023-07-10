@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Y Nhi!<br/><sup><sub>Ee-Nee (the "ee" in tree and sounds like "knee")</sub></sup><br/><a href="https://github.com/ynhinguyen11">Programmer</a>, <a href="https://www.linkedin.com/in/ynhingocnguyen/">Lead Engineer/ Process Manager</a></h1>
+<h2>About Me</h2>
+I am an aspiring data engineer. I am passionate about robotic process automation (RPA) and making user interaction intuitive and easy in a process. My current interest is in data: its use, where and how to collect it, and what it can tell me. Below are some of my projects related to data.
+<h2>👨‍💻 Data Projects:</h2>
+
+- <b>SQL</b>
+  - [Relational Database for Movie Rentals Exploration](https://github.com/ynhinguyen11/movie_rentals_exploration_SQL)
+- <b>Python</b>
+  - [Explore US Bikeshare Data](https://github.com/ynhinguyen11/explore_us_bikeshare_data_python)
+
 
 <!--
 **ynhinguyen11/ynhinguyen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
